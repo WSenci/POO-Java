@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"atividade_semana08"},{"l":"atividade02"},{"l":"semana01"},{"l":"semana02"},{"l":"semana03"},{"l":"semana04"},{"l":"semana05"},{"l":"semana06"},{"l":"semana07"},{"l":"semana08"},{"l":"semana09"},{"l":"semana10"},{"l":"semana11"}];updateSearchResults();
